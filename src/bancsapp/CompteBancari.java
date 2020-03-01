@@ -59,4 +59,7 @@ public class CompteBancari {
     public void saludo2(){
         System.out.println("BUENASS!");
     }
+    public void saludo(){
+        System.out.println("HOLA COMPAÑEROS");
+    }
 }
